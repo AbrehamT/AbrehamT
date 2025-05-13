@@ -1,7 +1,8 @@
 # Hello, I'm Abreham Tadesse! 
 
-I'm a developer passionate about building innovative solutions and contributing to open source. I love to explore new technologies and leverage them to solve real-world problems.
-
+I'm a developer passionate about building innovative solutions. I have experience with in full-stack development, AI/ML, and embedded systems.
+> "Believe you can and you're halfway there."
+> Theodore Roosevelt
 ## 🌐 Connect With Me
 
 <p align="center">
